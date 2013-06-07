@@ -5,20 +5,6 @@
     "keywords": [ "soap", "soap-bundle" ],
     "homepage": "https://github.com/BeSimple/BeSimpleSoapBundle",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Francis Besset",
-            "email": "francis.besset@gmail.com"
-        },
-        {
-            "name": "Christian Kerl",
-            "email": "christian-kerl@web.de"
-        },
-        {
-            "name": "Andreas Schamberger",
-            "email": "mail@andreass.net"
-        }
-    ],
     "require": {
         "besimple/soap-bundle": "dev-master"
     },
